@@ -1,9 +1,13 @@
 # Olapic-Test
 
 Javascript/Jquery process
+
 The first step in my rpoject was to figure out how to pull the photos into my project. 
+
 I looked through the photorankapi and decided to use all media to pull out the photos and simply have them sorted by most recent
+
 I dedcided to use jQuery's $.ajax function to do call the data with the token and customer ID.
+
 I used https://photorankapi-a.akamaihd.net/?auth_token=XXXX&version=v2.2 from the photorank to aquire the customer ID.
 After receiving the data, I appended all the data to view class with a thumbnail after seeing that the normal would be too big. 
 Made all images float left
