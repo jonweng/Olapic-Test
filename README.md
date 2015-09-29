@@ -35,6 +35,8 @@ For right I needed to animate first and then move the image to the back otherwis
 To animate, I set a default variable as a reference point. If moving left, move from -160 to 0. To move right I would move from 0 to -160. After the right movement, the left position needed to be reset to 0.
 
 
+
+
 After the carousel worked, I implemented the lightbox using this code.
 http://webdesign.tutsplus.com/articles/super-simple-lightbox-with-css-and-jquery--webdesign-3528
 
